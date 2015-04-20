@@ -9,9 +9,9 @@ angular.module('couponApp', ['ionic','couponApp.controllers','couponApp.services
   $ionicPlatform.ready(function() {
     // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
     // for form inputs)
-    if(window.cordova && window.cordova.plugins.Keyboard) {
-      cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
-    }
+//    if(window.cordova && window.cordova.plugins.Keyboard) {
+//      cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
+//    }
     if(window.StatusBar) {
       StatusBar.styleDefault();
     }
@@ -22,5 +22,9 @@ angular.module('couponApp', ['ionic','couponApp.controllers','couponApp.services
            url:'/coupons',
            controller:'CouponListController',
            templateUrl:'views/coupons.html'
+        }).state('detail',{
+            url:'/coupons/detail/:id/:title/:content',
+            controller:'DetailController',
+            templateUrl:'views/detail.html'
         });
 });

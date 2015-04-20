@@ -11,3 +11,95 @@
 2015-04-06 00:18:16.147 todoApp[25095:1935170] Resetting plugins due to page load.
 2015-04-06 00:18:16.243 todoApp[25095:1935170] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0AA5C275-109B-4D4E-95C1-AD50E6663FD6/data/Containers/Bundle/Application/76C5175B-96E3-4C86-962E-3EEDEBD5BDCB/todoApp.app/www/index.html
 2015-04-06 00:18:27.173 todoApp[25095:1935222] Terminating since there is no system app.
+2015-04-19 20:15:33.331 todoApp[73579:6922384] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/05D32639-F931-410D-8B98-2FB3AAA0719A/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:15:33.687 todoApp[73579:6922384] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:15:33.687 todoApp[73579:6922384] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:15:33.701 todoApp[73579:6922384] Unlimited access to network resources
+2015-04-19 20:15:34.467 todoApp[73579:6922384] Resetting plugins due to page load.
+2015-04-19 20:15:34.665 todoApp[73579:6922384] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/251E1D1A-6B78-49FE-8D79-7F3BE45124F7/todoApp.app/www/index.html
+2015-04-19 20:23:31.505 todoApp[73878:6930240] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/012AE1F3-606D-4C73-BFA9-CCA6D59E0977/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:23:31.575 todoApp[73878:6930240] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:23:31.575 todoApp[73878:6930240] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:23:31.577 todoApp[73878:6930240] Unlimited access to network resources
+2015-04-19 20:23:31.674 todoApp[73878:6930240] Resetting plugins due to page load.
+2015-04-19 20:23:31.772 todoApp[73878:6930240] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/C0D9BD0C-7049-457A-BED3-56DB5B123AA0/todoApp.app/www/index.html
+2015-04-19 20:26:26.765 todoApp[73878:6932838] Terminating since there is no system app.
+2015-04-19 20:26:37.815 todoApp[74094:6933930] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/66BB7F0E-C122-4B5C-BE8C-0C970AD50968/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:26:37.912 todoApp[74094:6933930] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:26:37.912 todoApp[74094:6933930] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:26:37.914 todoApp[74094:6933930] Unlimited access to network resources
+2015-04-19 20:26:38.023 todoApp[74094:6933930] Resetting plugins due to page load.
+2015-04-19 20:26:38.119 todoApp[74094:6933930] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/919D4A7E-E678-4C5E-8034-04089F61CABA/todoApp.app/www/index.html
+2015-04-19 20:32:25.989 todoApp[75179:6942832] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/FF7E3373-D6A6-407E-970F-B7B2AF575E29/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:32:26.060 todoApp[75179:6942832] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:32:26.060 todoApp[75179:6942832] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:32:26.062 todoApp[75179:6942832] Unlimited access to network resources
+2015-04-19 20:32:26.148 todoApp[75179:6942832] Resetting plugins due to page load.
+2015-04-19 20:32:26.241 todoApp[75179:6942832] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/47E45B83-546E-4A7A-BB22-CE6EA807B628/todoApp.app/www/index.html
+2015-04-19 20:33:28.906 todoApp[75179:6942832] Resetting plugins due to page load.
+2015-04-19 20:33:29.109 todoApp[75179:6942832] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/47E45B83-546E-4A7A-BB22-CE6EA807B628/todoApp.app/www/index.html
+2015-04-19 20:34:24.099 todoApp[75352:6945250] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/F7B49E2A-D68C-4FB1-8603-81132C3FF2CB/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:34:24.266 todoApp[75352:6945250] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:34:24.267 todoApp[75352:6945250] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:34:24.269 todoApp[75352:6945250] Unlimited access to network resources
+2015-04-19 20:34:24.460 todoApp[75352:6945250] Resetting plugins due to page load.
+2015-04-19 20:34:24.581 todoApp[75352:6945250] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/3181522A-CF0B-4FB7-8762-8ED47C64F773/todoApp.app/www/index.html
+2015-04-19 20:34:45.459 todoApp[75476:6946303] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/E42F889E-F63D-49F8-9B15-250C4CB9B329/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:34:45.534 todoApp[75476:6946303] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:34:45.534 todoApp[75476:6946303] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:34:45.535 todoApp[75476:6946303] Unlimited access to network resources
+2015-04-19 20:34:45.683 todoApp[75476:6946303] Resetting plugins due to page load.
+2015-04-19 20:34:45.791 todoApp[75476:6946303] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/314A44A6-7A63-4BA5-B541-C3F170E19D91/todoApp.app/www/index.html
+2015-04-19 20:34:59.146 todoApp[75476:6946303] Resetting plugins due to page load.
+2015-04-19 20:34:59.328 todoApp[75476:6946303] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/314A44A6-7A63-4BA5-B541-C3F170E19D91/todoApp.app/www/index.html
+2015-04-19 20:35:15.068 todoApp[75476:6946303] Resetting plugins due to page load.
+2015-04-19 20:35:15.249 todoApp[75476:6946303] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/314A44A6-7A63-4BA5-B541-C3F170E19D91/todoApp.app/www/index.html
+2015-04-19 20:35:34.452 todoApp[75570:6947571] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/85589FEE-C588-48CC-9693-539C48608954/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:35:34.503 todoApp[75570:6947571] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:35:34.503 todoApp[75570:6947571] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:35:34.505 todoApp[75570:6947571] Unlimited access to network resources
+2015-04-19 20:35:34.608 todoApp[75570:6947571] Resetting plugins due to page load.
+2015-04-19 20:35:34.706 todoApp[75570:6947571] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/B96616CE-DDE7-466D-AA97-82412DAC6585/todoApp.app/www/index.html
+2015-04-19 20:35:50.077 todoApp[75570:6947571] Resetting plugins due to page load.
+2015-04-19 20:35:50.262 todoApp[75570:6947571] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/B96616CE-DDE7-466D-AA97-82412DAC6585/todoApp.app/www/index.html
+2015-04-19 20:36:06.184 todoApp[75570:6947571] Resetting plugins due to page load.
+2015-04-19 20:36:06.368 todoApp[75570:6947571] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/B96616CE-DDE7-466D-AA97-82412DAC6585/todoApp.app/www/index.html
+2015-04-19 20:36:26.425 todoApp[75719:6948584] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/82164986-3DEF-43E3-890D-E2482821D48F/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:36:26.501 todoApp[75719:6948584] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:36:26.502 todoApp[75719:6948584] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:36:26.503 todoApp[75719:6948584] Unlimited access to network resources
+2015-04-19 20:36:26.597 todoApp[75719:6948584] Resetting plugins due to page load.
+2015-04-19 20:36:26.693 todoApp[75719:6948584] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/97DC99BE-17AC-4637-BD51-526186EFE930/todoApp.app/www/index.html
+2015-04-19 20:36:34.686 todoApp[75719:6948584] Resetting plugins due to page load.
+2015-04-19 20:36:34.871 todoApp[75719:6948584] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/97DC99BE-17AC-4637-BD51-526186EFE930/todoApp.app/www/index.html
+2015-04-19 20:38:25.674 todoApp[75896:6951423] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/12B7A80E-8AF9-4804-9F50-5D431FCD0AFF/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:38:25.728 todoApp[75896:6951423] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:38:25.728 todoApp[75896:6951423] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:38:25.730 todoApp[75896:6951423] Unlimited access to network resources
+2015-04-19 20:38:25.847 todoApp[75896:6951423] Resetting plugins due to page load.
+2015-04-19 20:38:25.946 todoApp[75896:6951423] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/7204F0D8-87DC-4D3B-B448-788A7396EF60/todoApp.app/www/index.html
+2015-04-19 20:40:18.810 todoApp[76129:6953873] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/0392F0E5-1CD4-4814-8E19-B0EC04C0FCFD/Library/Cookies/Cookies.binarycookies
+2015-04-19 20:40:18.888 todoApp[76129:6953873] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 20:40:18.889 todoApp[76129:6953873] Multi-tasking -> Device: YES, App: YES
+2015-04-19 20:40:18.890 todoApp[76129:6953873] Unlimited access to network resources
+2015-04-19 20:40:19.009 todoApp[76129:6953873] Resetting plugins due to page load.
+2015-04-19 20:40:19.107 todoApp[76129:6953873] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/F5C5051F-4277-4301-B9E2-B03C295D3182/todoApp.app/www/index.html
+2015-04-19 21:21:01.162 todoApp[76777:6995806] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/89A431A8-86EC-4F8C-B52B-0B6C0573CB92/Library/Cookies/Cookies.binarycookies
+2015-04-19 21:21:01.356 todoApp[76777:6995806] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 21:21:01.357 todoApp[76777:6995806] Multi-tasking -> Device: YES, App: YES
+2015-04-19 21:21:01.359 todoApp[76777:6995806] Unlimited access to network resources
+2015-04-19 21:21:01.520 todoApp[76777:6995806] Resetting plugins due to page load.
+2015-04-19 21:21:01.617 todoApp[76777:6995806] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/B1DB28FA-964F-45FD-8F5F-66DE783E03B0/todoApp.app/www/index.html
+2015-04-19 21:23:46.159 todoApp[76954:6998767] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/5DC17552-4F8D-4754-B3B2-1BCBBC27A387/Library/Cookies/Cookies.binarycookies
+2015-04-19 21:23:46.264 todoApp[76954:6998767] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 21:23:46.265 todoApp[76954:6998767] Multi-tasking -> Device: YES, App: YES
+2015-04-19 21:23:46.266 todoApp[76954:6998767] Unlimited access to network resources
+2015-04-19 21:23:46.373 todoApp[76954:6998767] Resetting plugins due to page load.
+2015-04-19 21:23:46.479 todoApp[76954:6998767] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/D9127416-D221-4D75-928E-04E2E3FAFACA/todoApp.app/www/index.html
+2015-04-19 21:24:28.093 todoApp[76954:6999661] Terminating since there is no system app.
+2015-04-19 21:25:10.260 todoApp[77170:7001163] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/A17A3049-EA12-4B6B-8955-B8600F9A6EA1/Library/Cookies/Cookies.binarycookies
+2015-04-19 21:25:10.382 todoApp[77170:7001163] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-19 21:25:10.383 todoApp[77170:7001163] Multi-tasking -> Device: YES, App: YES
+2015-04-19 21:25:10.384 todoApp[77170:7001163] Unlimited access to network resources
+2015-04-19 21:25:10.484 todoApp[77170:7001163] Resetting plugins due to page load.
+2015-04-19 21:25:10.584 todoApp[77170:7001163] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/03B37142-05BD-4A65-921F-4C7E4CE92CD5/todoApp.app/www/index.html
