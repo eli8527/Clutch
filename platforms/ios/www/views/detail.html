@@ -1,16 +1,4 @@
-<ion-header-bar class="bar-calm">
-    <div class="buttons">
-<!--
-        <ion-nav-back-button class="button button-clear" ui-sref="coupons">
-            Back
-        </ion-nav-back-button>
--->
-        <button class="button button-clear" ui-sref="coupons">Back</button>
-        
-    </div>
-    <h1 class="title" ng-model="coupon">{{coupon.title}}</h1>
-</ion-header-bar>
-
+<ion-view title="{{coupon.title}}">
 <ion-content>
     <div>
         <ion-list>
@@ -20,3 +8,4 @@
         </ion-list>
     </div>
 </ion-content>
+</ion-view>

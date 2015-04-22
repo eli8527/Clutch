@@ -1,13 +1,21 @@
-<ion-header-bar class="bar-calm">
-    
-        <h1 class="title">Coupons</h1>
-    
-</ion-header-bar>
 
+<ion-view title="Clutch">
 <ion-content>
+    <div class="item item-divider">
+                Your Personalized Coupons
+            </div>
+    <ion-list ng-repeat="item in custom | orderBy: '-createdAt'">
+        <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}">
+            {{item.title}} <strong>{{item.num}}</strong>
+        </ion-item>
+    </ion-list>
+    <div class="item item-divider">
+                Coupons
+            </div>
     <ion-list ng-repeat="item in items | orderBy: '-createdAt'">
         <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}">
             {{item.title}} <strong>{{item.num}}</strong>
         </ion-item>
     </ion-list>
 </ion-content>
+</ion-view>
