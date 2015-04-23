@@ -116,3 +116,36 @@
 2015-04-22 17:42:01.620 todoApp[92664:7929313] Unlimited access to network resources
 2015-04-22 17:42:01.838 todoApp[92664:7929313] Resetting plugins due to page load.
 2015-04-22 17:42:01.996 todoApp[92664:7929313] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/4F031881-2E36-4BC7-8770-F49B48504BF0/todoApp.app/www/index.html
+2015-04-22 23:29:38.440 todoApp[94060:8069687] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/A569640B-062B-4B6F-BB8B-83076D202172/Library/Cookies/Cookies.binarycookies
+2015-04-22 23:29:38.781 todoApp[94060:8069687] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-22 23:29:38.782 todoApp[94060:8069687] Multi-tasking -> Device: YES, App: YES
+2015-04-22 23:29:38.799 todoApp[94060:8069687] Unlimited access to network resources
+2015-04-22 23:29:39.477 todoApp[94060:8069687] Resetting plugins due to page load.
+2015-04-22 23:29:39.689 todoApp[94060:8069687] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/5EAE2071-F42F-4771-9100-176E40CB9685/todoApp.app/www/index.html
+2015-04-22 23:29:51.294 todoApp[94060:8069687] CDVWebViewDelegate: Navigation started when state=1
+2015-04-22 23:29:51.295 todoApp[94060:8069687] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-22 23:29:52.368 todoApp[94060:8069687] CDVWebViewDelegate: Navigation started when state=1
+2015-04-22 23:29:52.368 todoApp[94060:8069687] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-22 23:30:17.573 todoApp[94060:8069687] CDVWebViewDelegate: Navigation started when state=1
+2015-04-22 23:30:17.573 todoApp[94060:8069687] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-22 23:31:01.695 todoApp[94060:8069687] CDVWebViewDelegate: Navigation started when state=1
+2015-04-22 23:31:01.696 todoApp[94060:8069687] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-23 00:03:36.534 todoApp[94060:8087667] Terminating since there is no system app.
+2015-04-23 00:05:39.986 todoApp[94483:8090525] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/10F51B46-D3B3-4235-BE50-5A476B1AB859/Library/Cookies/Cookies.binarycookies
+2015-04-23 00:05:40.061 todoApp[94483:8090525] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 00:05:40.061 todoApp[94483:8090525] Multi-tasking -> Device: YES, App: YES
+2015-04-23 00:05:40.062 todoApp[94483:8090525] Unlimited access to network resources
+2015-04-23 00:05:40.188 todoApp[94483:8090525] Resetting plugins due to page load.
+2015-04-23 00:05:40.295 todoApp[94483:8090525] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/03EC5688-01A1-471E-B138-EC2E5E79D981/todoApp.app/www/index.html
+2015-04-23 00:06:34.281 Clutch[94709:8092464] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/2CB8760D-0FDE-4EC8-9E53-A9B03473DE83/Library/Cookies/Cookies.binarycookies
+2015-04-23 00:06:34.353 Clutch[94709:8092464] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 00:06:34.353 Clutch[94709:8092464] Multi-tasking -> Device: YES, App: YES
+2015-04-23 00:06:34.355 Clutch[94709:8092464] Unlimited access to network resources
+2015-04-23 00:06:34.455 Clutch[94709:8092464] Resetting plugins due to page load.
+2015-04-23 00:06:34.559 Clutch[94709:8092464] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/E398C642-28C5-4C88-AD35-94E2C23D85A8/Clutch.app/www/index.html
+2015-04-23 00:30:42.954 Clutch[95114:8117036] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/E275661F-40C8-4E5D-9B5F-1CAD5FD8EBD4/Library/Cookies/Cookies.binarycookies
+2015-04-23 00:30:43.086 Clutch[95114:8117036] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-23 00:30:43.087 Clutch[95114:8117036] Multi-tasking -> Device: YES, App: YES
+2015-04-23 00:30:43.088 Clutch[95114:8117036] Unlimited access to network resources
+2015-04-23 00:30:43.235 Clutch[95114:8117036] Resetting plugins due to page load.
+2015-04-23 00:30:43.342 Clutch[95114:8117036] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/B5DBC88E-58AB-429A-9A7C-CCFB6F9F8897/Clutch.app/www/index.html
