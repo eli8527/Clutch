@@ -51,18 +51,33 @@ angular.module('couponApp.controllers', []).controller('CouponListController', [
             template: 'Welcome to Clutch, a COS448 Project developed by Cissy Chen, Eric Li, Aditya Trivedi, and Julia Wang.'
         });
         alertPopup.then(function (res) {
-            
+
         });
     };
 
 }]).controller('DetailController', ['$scope', 'Coupon', '$state', '$stateParams', function ($scope, Coupon, $state, $stateParams) {
 
+    // the coupon object
     $scope.coupon = {
         id: $stateParams.id,
         title: $stateParams.title,
         content: $stateParams.content,
-        expdate: $stateParams.expdate
+        expdate: $stateParams.expdate,
+        num: $stateParams.num
     };
 
-
+    // qr code
+    //    new QRCode(document.getElementById("qrcode"), $scope.coupon.num);
+    var qrcode = new QRCode("qrcode", {
+        text: $scope.coupon.num,
+        width: 128,
+        height: 128,
+        colorDark: "#000000",
+        colorLight: "#ffffff",
+        correctLevel: QRCode.CorrectLevel.H
+    });
+    
+    var expiration = new Date(Date.parse($stateParams.expdate));
+    document.getElementById("expiration").innerText = "Expires on " + expiration.toDateString() + ".";
+    
 }]);

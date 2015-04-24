@@ -149,3 +149,27 @@
 2015-04-23 00:30:43.088 Clutch[95114:8117036] Unlimited access to network resources
 2015-04-23 00:30:43.235 Clutch[95114:8117036] Resetting plugins due to page load.
 2015-04-23 00:30:43.342 Clutch[95114:8117036] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/B5DBC88E-58AB-429A-9A7C-CCFB6F9F8897/Clutch.app/www/index.html
+2015-04-24 13:28:21.990 Clutch[8165:8530537] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/0ECA3A1A-584E-49CD-B2C7-BF6CF091E3EB/Library/Cookies/Cookies.binarycookies
+2015-04-24 13:28:22.325 Clutch[8165:8530537] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 13:28:22.326 Clutch[8165:8530537] Multi-tasking -> Device: YES, App: YES
+2015-04-24 13:28:22.342 Clutch[8165:8530537] Unlimited access to network resources
+2015-04-24 13:28:22.979 Clutch[8165:8530537] Resetting plugins due to page load.
+2015-04-24 13:28:23.299 Clutch[8165:8530537] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/1242CB90-A28A-4971-9231-881B6715730F/Clutch.app/www/index.html
+2015-04-24 13:59:47.851 Clutch[8646:8560016] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/DF60F66A-2A09-4653-A0E3-965727831C8E/Library/Cookies/Cookies.binarycookies
+2015-04-24 13:59:47.933 Clutch[8646:8560016] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 13:59:47.933 Clutch[8646:8560016] Multi-tasking -> Device: YES, App: YES
+2015-04-24 13:59:47.934 Clutch[8646:8560016] Unlimited access to network resources
+2015-04-24 13:59:48.080 Clutch[8646:8560016] Resetting plugins due to page load.
+2015-04-24 13:59:48.192 Clutch[8646:8560016] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/94AB1400-BA21-436A-B407-32F925B0DD72/Clutch.app/www/index.html
+2015-04-24 14:01:46.554 Clutch[8810:8561893] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/47CFA411-0506-46AF-BACB-E2194C8CFB90/Library/Cookies/Cookies.binarycookies
+2015-04-24 14:01:46.652 Clutch[8810:8561893] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 14:01:46.653 Clutch[8810:8561893] Multi-tasking -> Device: YES, App: YES
+2015-04-24 14:01:46.654 Clutch[8810:8561893] Unlimited access to network resources
+2015-04-24 14:01:46.759 Clutch[8810:8561893] Resetting plugins due to page load.
+2015-04-24 14:01:46.876 Clutch[8810:8561893] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/0C8E07B0-8BF5-45A0-A955-C38409E93E36/Clutch.app/www/index.html
+2015-04-24 14:02:31.157 Clutch[8969:8563158] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/789DA17A-B5A2-48CE-88EF-4A7364FB83E6/Library/Cookies/Cookies.binarycookies
+2015-04-24 14:02:31.279 Clutch[8969:8563158] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 14:02:31.279 Clutch[8969:8563158] Multi-tasking -> Device: YES, App: YES
+2015-04-24 14:02:31.280 Clutch[8969:8563158] Unlimited access to network resources
+2015-04-24 14:02:31.410 Clutch[8969:8563158] Resetting plugins due to page load.
+2015-04-24 14:02:31.518 Clutch[8969:8563158] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/E99CEFF8-6F34-42A5-BC63-561503994E8E/Clutch.app/www/index.html

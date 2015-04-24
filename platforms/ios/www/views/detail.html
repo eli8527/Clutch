@@ -1,11 +1,13 @@
 <ion-view title="{{coupon.title}}">
-<ion-content>
-    <div>
-        <ion-list>
-            <li class="item item-input item-stacked-label" ng-model="coupon">
-                {{coupon.content}} <br /> Expires on {{coupon.expdate}}.
-            </li>
-        </ion-list>
-    </div>
-</ion-content>
+    <ion-content>
+        <div class="coupon-det">
+            <center>
+                <div ng-model="coupon">
+                    <div id="content">{{coupon.content}}</div>
+                    <div id="qrcode"></div>
+                    <div id="expiration"></div>
+                </div>
+            </center>
+        </div>
+    </ion-content>
 </ion-view>

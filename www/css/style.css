@@ -1,8 +1,26 @@
 /* Empty. Add your own CSS if you like */
-.newItem{
-    position:absolute;
-    right:10px;
+
+.newItem {
+    position: absolute;
+    right: 10px;
 }
-.navbar{
-    position:relative;
+
+.navbar {
+    position: relative;
+}
+
+#content {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+
+#expiration {
+    padding-top: 10px;
+    font-size:12px;
+    font-style: italic;
+}
+
+.coupon-det {
+    margin: 10px;
 }

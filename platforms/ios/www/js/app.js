@@ -26,7 +26,7 @@ angular.module('couponApp', ['ionic', 'couponApp.controllers', 'couponApp.servic
         controller: 'CouponListController',
         templateUrl: 'views/coupons.html'
     }).state('detail', {
-        url: '/coupons/detail/:id/:title/:content/:expdate',
+        url: '/coupons/detail/:id/:title/:content/:expdate/:num',
         controller: 'DetailController',
         templateUrl: 'views/detail.html'
     });

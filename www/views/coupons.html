@@ -1,7 +1,7 @@
 <ion-view title="Clutch">
     <ion-nav-buttons side="right">
         <button class="button button-icon icon ion-ios-information-outline" ng-click="showInfo()">
-        Info</button>
+            Info</button>
 
     </ion-nav-buttons>
     <ion-content>
@@ -9,17 +9,22 @@
             Your Personalized Coupons
         </div>
         <ion-list ng-repeat="item in custom | orderBy: '-createdAt'">
-            <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}/{{item.expdate.iso}}">
-                {{item.title}} <strong>{{item.num}}</strong>
+            <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}/{{item.expdate.iso}}/{{item.num}}">
+                <span>{{item.title}}</span>
+                <p>{{item.desc}}</p>
             </ion-item>
         </ion-list>
         <div class="item item-divider">
             Coupons
         </div>
         <ion-list ng-repeat="item in items | orderBy: '-createdAt'">
-            <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}/{{item.expdate.iso}}">
-                {{item.title}} <strong>{{item.num}}</strong>
+            <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}/{{item.expdate.iso}}/{{item.num}}">
+                <span>{{item.title}}</span>
+                <p>{{item.desc}}</p>
             </ion-item>
         </ion-list>
     </ion-content>
+    <ion-footer-bar align-title="center" class="bar-stable">
+        <h1 class="title">Welcome to <strong>Macys Herald Square</strong></h1>
+    </ion-footer-bar>
 </ion-view>
