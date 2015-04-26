@@ -173,3 +173,15 @@
 2015-04-24 14:02:31.280 Clutch[8969:8563158] Unlimited access to network resources
 2015-04-24 14:02:31.410 Clutch[8969:8563158] Resetting plugins due to page load.
 2015-04-24 14:02:31.518 Clutch[8969:8563158] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/E99CEFF8-6F34-42A5-BC63-561503994E8E/Clutch.app/www/index.html
+2015-04-24 14:54:49.352 Clutch[9617:8598003] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/DD74B58C-AE6B-42B0-B065-48003892265C/Library/Cookies/Cookies.binarycookies
+2015-04-24 14:54:49.811 Clutch[9617:8598003] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 14:54:49.812 Clutch[9617:8598003] Multi-tasking -> Device: YES, App: YES
+2015-04-24 14:54:49.826 Clutch[9617:8598003] Unlimited access to network resources
+2015-04-24 14:54:50.532 Clutch[9617:8598003] Resetting plugins due to page load.
+2015-04-24 14:54:50.779 Clutch[9617:8598003] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/848510E8-BFA6-4643-8A18-FDBD9F9F9D15/Clutch.app/www/index.html
+2015-04-24 15:02:06.162 Clutch[9892:8604484] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/2A5D1048-8F2E-4ACA-9432-C4DB16CBC4B7/Library/Cookies/Cookies.binarycookies
+2015-04-24 15:02:06.407 Clutch[9892:8604484] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 15:02:06.408 Clutch[9892:8604484] Multi-tasking -> Device: YES, App: YES
+2015-04-24 15:02:06.420 Clutch[9892:8604484] Unlimited access to network resources
+2015-04-24 15:02:06.892 Clutch[9892:8604484] Resetting plugins due to page load.
+2015-04-24 15:02:07.113 Clutch[9892:8604484] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/04EB6749-4290-46D5-BDA7-9FEB5BFB58A3/Clutch.app/www/index.html
