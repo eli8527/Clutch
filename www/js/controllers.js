@@ -36,6 +36,14 @@ angular.module('couponApp.controllers', []).controller('CouponListController', [
     // adds to custom coupon list
     function addLater(coup) {
         var custom = JSON.parse(localStorage.getItem("custom"));
+
+        // update expiration
+        var ttd = coup.ttd;
+        var date = new Date();
+        var newexp = date.getTime() + ttd;
+        coup.expdate = newexp;
+
+        // add
         custom.push(coup);
         localStorage.setItem("custom", JSON.stringify(custom));
         $state.go($state.current, {}, {
@@ -47,16 +55,16 @@ angular.module('couponApp.controllers', []).controller('CouponListController', [
 
     $scope.showInfo = function () {
         $state.go('about');
-//        var alertPopup = $ionicPopup.alert({
-//            title: 'Clutch',
-//            template: 'Welcome to Clutch, a COS448 Project developed by Cissy Chen, Eric Li, Aditya Trivedi, and Julia Wang.'
-//        });
-//        alertPopup.then(function (res) {
-//
-//        });
+        //        var alertPopup = $ionicPopup.alert({
+        //            title: 'Clutch',
+        //            template: 'Welcome to Clutch, a COS448 Project developed by Cissy Chen, Eric Li, Aditya Trivedi, and Julia Wang.'
+        //        });
+        //        alertPopup.then(function (res) {
+        //
+        //        });
     };
 
-}]).controller('DetailController', ['$scope', 'Coupon', '$state', '$stateParams', function ($scope, Coupon, $state, $stateParams) {
+}]).controller('DetailController', ['$scope', 'Coupon', '$state', '$stateParams', '$interval', function ($scope, Coupon, $state, $stateParams, $interval) {
 
     // the coupon object
     $scope.coupon = {
@@ -64,8 +72,11 @@ angular.module('couponApp.controllers', []).controller('CouponListController', [
         title: $stateParams.title,
         content: $stateParams.content,
         expdate: $stateParams.expdate,
-        num: $stateParams.num
+        num: $stateParams.num,
+        custom: $stateParams.custom
     };
+
+    var timer;
 
     // qr code
     //    new QRCode(document.getElementById("qrcode"), $scope.coupon.num);
@@ -77,12 +88,24 @@ angular.module('couponApp.controllers', []).controller('CouponListController', [
         colorLight: "#ffffff",
         correctLevel: QRCode.CorrectLevel.H
     });
-    
-    var expiration = new Date(Date.parse($stateParams.expdate));
-    document.getElementById("expiration").innerText = "Expires on " + expiration.toDateString() + ".";
-    
-}]).controller('AboutController',['$scope','$state',function($scope,$state) {
-    
-    
-    
+
+    // expiration date
+    if ($scope.coupon.custom == 'true') {
+        timer = $interval(function () {
+            document.getElementById("expiration").innerText = "Expires in " + countdown(null, $scope.coupon.expdate) + ".";
+        }, 1000);
+    } else {
+        var expiration = new Date(Date.parse($scope.coupon.expdate));
+        document.getElementById("expiration").innerText = "Expires on " + expiration.toDateString() + ".";
+    }
+
+    $scope.$on('$destroy', function () {
+        $interval.cancel(timer);
+    });
+
+
+}]).controller('AboutController', ['$scope', '$state', function ($scope, $state) {
+
+
+
 }]);

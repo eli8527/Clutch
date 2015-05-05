@@ -9,7 +9,7 @@
             Your Personalized Coupons
         </div>
         <ion-list ng-repeat="item in custom | orderBy: '-createdAt'">
-            <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}/{{item.expdate.iso}}/{{item.num}}">
+            <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}/{{item.expdate}}/{{item.num}}/{{item.custom}}">
                 <span>{{item.title}}</span>
                 <p>{{item.desc}}</p>
             </ion-item>
@@ -18,7 +18,7 @@
             Coupons
         </div>
         <ion-list ng-repeat="item in items | orderBy: '-createdAt'">
-            <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}/{{item.expdate.iso}}/{{item.num}}">
+            <ion-item href="#/coupons/detail/{{item.objectId}}/{{item.title}}/{{item.content}}/{{item.expdate.iso}}/{{item.num}}/{{item.custom}}">
                 <span>{{item.title}}</span>
                 <p>{{item.desc}}</p>
             </ion-item>
