@@ -29,5 +29,9 @@ angular.module('couponApp', ['ionic', 'couponApp.controllers', 'couponApp.servic
         url: '/coupons/detail/:id/:title/:content/:expdate/:num',
         controller: 'DetailController',
         templateUrl: 'views/detail.html'
+    }).state('about', {
+        url: '/about',
+        controller: 'AboutController',
+        templateUrl: 'views/about.html'
     });
 });
