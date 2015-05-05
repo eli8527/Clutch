@@ -185,3 +185,28 @@
 2015-04-24 15:02:06.420 Clutch[9892:8604484] Unlimited access to network resources
 2015-04-24 15:02:06.892 Clutch[9892:8604484] Resetting plugins due to page load.
 2015-04-24 15:02:07.113 Clutch[9892:8604484] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/04EB6749-4290-46D5-BDA7-9FEB5BFB58A3/Clutch.app/www/index.html
+2015-04-26 16:41:02.705 Clutch[16112:9032847] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/C6DF9553-EBFA-436A-9E08-A7978C207C70/Library/Cookies/Cookies.binarycookies
+2015-04-26 16:41:02.935 Clutch[16112:9032847] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:41:02.936 Clutch[16112:9032847] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:41:02.953 Clutch[16112:9032847] Unlimited access to network resources
+2015-04-26 16:41:03.490 Clutch[16112:9032847] Resetting plugins due to page load.
+2015-04-26 16:41:03.716 Clutch[16112:9032847] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/460CABAA-3324-40E1-BD8A-6FF528365F71/Clutch.app/www/index.html
+2015-04-26 22:39:18.253 Clutch[18181:9224182] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/EBF120CE-4AEA-4D67-AD7F-B671742C11F6/Library/Cookies/Cookies.binarycookies
+2015-04-26 22:39:18.481 Clutch[18181:9224182] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 22:39:18.482 Clutch[18181:9224182] Multi-tasking -> Device: YES, App: YES
+2015-04-26 22:39:18.498 Clutch[18181:9224182] Unlimited access to network resources
+2015-04-26 22:39:19.018 Clutch[18181:9224182] Resetting plugins due to page load.
+2015-04-26 22:39:19.241 Clutch[18181:9224182] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/8FC333D8-DCAE-4A4C-8DBB-54A94F5915B2/Clutch.app/www/index.html
+2015-04-26 22:39:53.091 Clutch[18181:9225007] Terminating since there is no system app.
+2015-05-05 13:52:12.636 Clutch[46936:11247103] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/6CA3FE8D-3690-43A6-971D-D838A779C767/Library/Cookies/Cookies.binarycookies
+2015-05-05 13:52:12.952 Clutch[46936:11247103] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-05 13:52:12.953 Clutch[46936:11247103] Multi-tasking -> Device: YES, App: YES
+2015-05-05 13:52:12.969 Clutch[46936:11247103] Unlimited access to network resources
+2015-05-05 13:52:14.517 Clutch[46936:11247103] Resetting plugins due to page load.
+2015-05-05 13:52:14.768 Clutch[46936:11247103] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/9347D5F4-6173-4822-8A51-5AD0226DF305/Clutch.app/www/index.html
+2015-05-05 13:53:24.856 Clutch[47105:11248997] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/A9E9184C-8EF1-41DB-8AB7-8DED752DA06B/Library/Cookies/Cookies.binarycookies
+2015-05-05 13:53:24.914 Clutch[47105:11248997] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-05 13:53:24.914 Clutch[47105:11248997] Multi-tasking -> Device: YES, App: YES
+2015-05-05 13:53:24.916 Clutch[47105:11248997] Unlimited access to network resources
+2015-05-05 13:53:25.061 Clutch[47105:11248997] Resetting plugins due to page load.
+2015-05-05 13:53:25.176 Clutch[47105:11248997] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/AC5E3F36-B9B8-41F7-B88C-F027DB13D678/Clutch.app/www/index.html
