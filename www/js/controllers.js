@@ -50,7 +50,7 @@ angular.module('couponApp.controllers', []).controller('CouponListController', [
             reload: true
         });
 
-    }
+    };
 
 
     $scope.showInfo = function () {
@@ -106,6 +106,11 @@ angular.module('couponApp.controllers', []).controller('CouponListController', [
 
 }]).controller('AboutController', ['$scope', '$state', function ($scope, $state) {
 
+}]).controller('WelcomeController', ['$scope', '$state', function ($scope, $state) {
 
-
+    $scope.goHome = function() {
+//        console.log('derp');
+//        $ionicViewSwitcher.nextDirection('exit'); // 'forward', 'back', etc.
+        $state.go('coupons');
+    };
 }]);

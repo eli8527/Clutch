@@ -18,7 +18,7 @@ angular.module('couponApp', ['ionic', 'couponApp.controllers', 'couponApp.servic
         if (window.StatusBar) {
             StatusBar.styleDefault();
         }
-        $state.go('coupons');
+        $state.go('welcome');
     });
 }).config(function ($stateProvider) {
     $stateProvider.state('coupons', {
@@ -33,5 +33,9 @@ angular.module('couponApp', ['ionic', 'couponApp.controllers', 'couponApp.servic
         url: '/about',
         controller: 'AboutController',
         templateUrl: 'views/about.html'
+    }).state('welcome', {
+        url: '/welcome',
+        controller: 'WelcomeController',
+        templateUrl: 'views/welcome.html'
     });
 });

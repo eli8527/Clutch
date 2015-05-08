@@ -234,3 +234,45 @@
 2015-05-05 16:45:19.252 Clutch[49219:11334374] Unlimited access to network resources
 2015-05-05 16:45:19.418 Clutch[49219:11334374] Resetting plugins due to page load.
 2015-05-05 16:45:19.527 Clutch[49219:11334374] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/000CED25-7646-4161-9201-2A8FA5101ECA/Clutch.app/www/index.html
+2015-05-05 21:41:32.353 Clutch[53395:11435832] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/2406336F-06D8-4152-B211-3369D19FDEB4/Library/Cookies/Cookies.binarycookies
+2015-05-05 21:41:32.592 Clutch[53395:11435832] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-05 21:41:32.592 Clutch[53395:11435832] Multi-tasking -> Device: YES, App: YES
+2015-05-05 21:41:32.608 Clutch[53395:11435832] Unlimited access to network resources
+2015-05-05 21:41:33.094 Clutch[53395:11435832] Resetting plugins due to page load.
+2015-05-05 21:41:33.324 Clutch[53395:11435832] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/092B2DD3-F800-458F-B046-8846218F86F8/Clutch.app/www/index.html
+2015-05-05 23:01:02.692 Clutch[54375:11498311] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/A981505C-6D50-4C43-AD83-2A061C288920/Library/Cookies/Cookies.binarycookies
+2015-05-05 23:01:02.898 Clutch[54375:11498311] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-05 23:01:02.899 Clutch[54375:11498311] Multi-tasking -> Device: YES, App: YES
+2015-05-05 23:01:02.900 Clutch[54375:11498311] Unlimited access to network resources
+2015-05-05 23:01:03.068 Clutch[54375:11498311] Resetting plugins due to page load.
+2015-05-05 23:01:03.191 Clutch[54375:11498311] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/B71D0289-C71A-4514-900B-5F798F982CA6/Clutch.app/www/index.html
+2015-05-05 23:01:53.002 Clutch[54539:11499449] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/A6AFE68B-9137-43C2-825A-85111C6B9041/Library/Cookies/Cookies.binarycookies
+2015-05-05 23:01:53.089 Clutch[54539:11499449] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-05 23:01:53.090 Clutch[54539:11499449] Multi-tasking -> Device: YES, App: YES
+2015-05-05 23:01:53.091 Clutch[54539:11499449] Unlimited access to network resources
+2015-05-05 23:01:53.199 Clutch[54539:11499449] Resetting plugins due to page load.
+2015-05-05 23:01:53.314 Clutch[54539:11499449] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/1A42F9A0-4220-4173-A11C-49FCA8B6F400/Clutch.app/www/index.html
+2015-05-05 23:02:16.357 Clutch[54669:11500606] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/757F5B9F-031E-4730-A3A2-3AA06F247CE2/Library/Cookies/Cookies.binarycookies
+2015-05-05 23:02:16.484 Clutch[54669:11500606] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-05 23:02:16.484 Clutch[54669:11500606] Multi-tasking -> Device: YES, App: YES
+2015-05-05 23:02:16.485 Clutch[54669:11500606] Unlimited access to network resources
+2015-05-05 23:02:16.583 Clutch[54669:11500606] Resetting plugins due to page load.
+2015-05-05 23:02:16.684 Clutch[54669:11500606] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/4582E091-1865-4DBE-A229-410277895ACE/Clutch.app/www/index.html
+2015-05-05 23:22:57.771 Clutch[55053:11521327] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/C3A8D509-9968-4865-8067-21692F76DB66/Library/Cookies/Cookies.binarycookies
+2015-05-05 23:22:57.970 Clutch[55053:11521327] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-05 23:22:57.970 Clutch[55053:11521327] Multi-tasking -> Device: YES, App: YES
+2015-05-05 23:22:57.972 Clutch[55053:11521327] Unlimited access to network resources
+2015-05-05 23:22:58.127 Clutch[55053:11521327] Resetting plugins due to page load.
+2015-05-05 23:22:58.243 Clutch[55053:11521327] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/18159EC9-B37F-442B-879E-E3EE7FB35B4A/Clutch.app/www/index.html
+2015-05-05 23:24:57.811 Clutch[55239:11524008] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/F036DCAD-5742-4044-84C6-E61E29E66BBA/Library/Cookies/Cookies.binarycookies
+2015-05-05 23:24:57.969 Clutch[55239:11524008] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-05 23:24:57.969 Clutch[55239:11524008] Multi-tasking -> Device: YES, App: YES
+2015-05-05 23:24:57.970 Clutch[55239:11524008] Unlimited access to network resources
+2015-05-05 23:24:58.157 Clutch[55239:11524008] Resetting plugins due to page load.
+2015-05-05 23:24:58.290 Clutch[55239:11524008] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/56BC6231-D501-4938-8D04-5B59C242E4C7/Clutch.app/www/index.html
+2015-05-07 10:18:05.651 Clutch[66959:11906538] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Data/Application/7D59CD9A-8114-44DD-8E64-D124E94DB342/Library/Cookies/Cookies.binarycookies
+2015-05-07 10:18:06.002 Clutch[66959:11906538] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 10:18:06.002 Clutch[66959:11906538] Multi-tasking -> Device: YES, App: YES
+2015-05-07 10:18:06.015 Clutch[66959:11906538] Unlimited access to network resources
+2015-05-07 10:18:06.490 Clutch[66959:11906538] Resetting plugins due to page load.
+2015-05-07 10:18:06.708 Clutch[66959:11906538] Finished load of: file:///Users/Eric/Library/Developer/CoreSimulator/Devices/0A4C8B54-44F0-44A3-8FA8-DA83D47A3889/data/Containers/Bundle/Application/C86757B9-428B-4A99-88BB-C8F4E2F62D53/Clutch.app/www/index.html

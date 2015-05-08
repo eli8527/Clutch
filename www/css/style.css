@@ -1,5 +1,9 @@
-/* Empty. Add your own CSS if you like */
+/* custom css */
 
+#logo-abt {
+    pading-top:10px;
+    padding-bottom:20px;   
+}
 .newItem {
     position: absolute;
     right: 10px;
@@ -17,7 +21,7 @@
 
 #expiration {
     padding-top: 10px;
-    font-size:12px;
+    font-size: 12px;
     font-style: italic;
 }
 

@@ -1,0 +1,26 @@
+<ion-view title="Welcome to Clutch!" hide-back-button="true">
+    <ion-content>
+        <div class="coupon-det">
+
+            <p>In order to provide the most intimate shopping experience, please select the types of coupons you'd like to recieve.</p>
+        </div>
+        <ion-checkbox ng-model="isChecked">Home</ion-checkbox>
+        <ion-checkbox ng-model="isChecked1">Bed & Bath</ion-checkbox>
+        <ion-checkbox ng-model="isChecked2">Women</ion-checkbox>
+        <ion-checkbox ng-model="isChecked3">Men</ion-checkbox>
+        <ion-checkbox ng-model="isChecked4">Juniors</ion-checkbox>
+        <ion-checkbox ng-model="isChecked5">Kids</ion-checkbox>
+        <ion-checkbox ng-model="isChecked6">Beauty</ion-checkbox>
+        <ion-checkbox ng-model="isChecked7">Shoes</ion-checkbox>
+        <ion-checkbox ng-model="isChecked8">Handbags & Accessories</ion-checkbox>
+        <ion-checkbox ng-model="isChecked9">Jewelry</ion-checkbox>
+        <ion-checkbox ng-model="isChecked10">Watches</ion-checkbox>
+
+    </ion-content>
+    <ion-footer-bar align-title="right" class="bar-stable">
+        <h1 class="title"></h1>
+        <div class="buttons" ng-click="goHome()">
+            <button class="button">Done</button>
+        </div>
+    </ion-footer-bar>
+</ion-view>
